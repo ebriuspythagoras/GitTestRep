@@ -1,0 +1,15 @@
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/bin/Debug/net7.0/GitHubTest
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/bin/Debug/net7.0/GitHubTest.deps.json
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/bin/Debug/net7.0/GitHubTest.runtimeconfig.json
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/bin/Debug/net7.0/GitHubTest.dll
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/bin/Debug/net7.0/GitHubTest.pdb
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.csproj.AssemblyReference.cache
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.AssemblyInfoInputs.cache
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.AssemblyInfo.cs
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.csproj.CoreCompileInputs.cache
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.dll
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/refint/GitHubTest.dll
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.pdb
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/GitHubTest.genruntimeconfig.cache
+/Users/volodimir/Projects/GitTestRep/GitHubTest/GitHubTest/obj/Debug/net7.0/ref/GitHubTest.dll
